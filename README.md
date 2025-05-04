@@ -27,10 +27,13 @@
 
 ### 📌 Featured Projects
 
-🔹 [Spotify Clone](https://github.com/GhanshyamJha05/spotify-clone) – A frontend music app UI inspired by Spotify  
-🔹 [To-Do List App](https://github.com/GhanshyamJha05/todo-list-app) – A simple and responsive task manager built using HTML/CSS/JavaScript  
-🔹 [Web Projects with HTML/CSS/JS](https://github.com/GhanshyamJha05/program-using-html-css-and-js)  
-🔹 [LeetCode Solutions in C++](https://github.com/GhanshyamJha05/Leetcode-solutions)
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🎵 Spotify Clone](https://github.com/GhanshyamJha05/spotify-clone) | A frontend music streaming UI inspired by Spotify | HTML, CSS, JavaScript |
+| [✅ To-Do List App](https://github.com/GhanshyamJha05/todo-list-app) | A responsive and user-friendly task manager | HTML, CSS, JavaScript |
+| [🌐 Web Dev Projects](https://github.com/GhanshyamJha05/program-using-html-css-and-js) | Collection of mini projects using HTML/CSS/JS | HTML, CSS, JavaScript |
+| [📘 LeetCode Solutions](https://github.com/GhanshyamJha05/Leetcode-solutions) | My C++ solutions for various LeetCode problems | C++ |
+
 
 ---
 
