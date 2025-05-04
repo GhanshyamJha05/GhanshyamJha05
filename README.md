@@ -67,7 +67,7 @@
 
 - ✔️ C++ Programming – HackerRank  
 - ✔️ Python Programming – [Great Learning / Coursera / etc.]  
-- ✔️ Web Development Bootcamp – [Platform Name]
+- ✔️ Web Development Bootcamp – [Udemy]
 
 ---
 
