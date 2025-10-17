@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a Computer Science & Engineering student at **Kanpur Institute of Technology**  
+- 🎓 I'm a Computer Science & Engineering student 
 - 🌱 I’m currently learning **Full Stack Web Development** and exploring **Machine Learning**
 - 💡 I love building projects that solve real-life problems
 
