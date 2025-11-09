@@ -64,6 +64,7 @@
 
 
 ---
+### 🧩 Holopin Badges
 [![An image of @ghanshyamjha05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghanshyamjha05)](https://holopin.io/@ghanshyamjha05)
 ---
 ### 🌐 Connect With Me
