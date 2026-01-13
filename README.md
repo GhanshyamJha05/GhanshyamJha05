@@ -62,11 +62,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GhanshyamJha05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Ghanshyam's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GhanshyamJha05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Ghanshyam's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanshyamJha05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GhanshyamJha05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
