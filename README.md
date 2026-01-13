@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ghanshyam Jha</h1>
 <h3 align="center">Aspiring Software Engineer | CSE Undergrad | Full-Stack & Python Developer</h3>
 
@@ -5,71 +6,81 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Coder;Web+%26+App+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 I'm a Computer Science & Engineering student 
-- 🌱 I’m currently learning **Full Stack Web Development** and exploring **Machine Learning**
-- 💡 I love building projects that solve real-life problems
-
----
-### 🛠️ Tech Stack
-
-#### 🧑‍💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  I'm a Computer Science & Engineering student passionate about building real-world solutions using Full-Stack Web Development and Machine Learning. I love exploring new technologies, from building game clones to scalable web applications.
 </p>
-
-#### ⚙️ Frameworks & Runtime
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
-
-#### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-#### 🔧 Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
 
 ---
 
-### 🧠 Currently Working On
+## 🛠️ Tech Stack
 
-- 🚀 Enhancing my **Data Structures & Algorithms** skills via LeetCode  
-- 💻 Personal projects using **MERN Stack** and **Python**
-- 🔍 Open to internships and collaboration opportunities in **Web Development** & **Backend Development**
+### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### Frontend & Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### Tools & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-### 📌 Featured Projects
+## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🎵 Spotify Clone](https://github.com/GhanshyamJha05/spotify-clone) | A frontend music streaming UI inspired by Spotify | HTML, CSS, JavaScript |
-| [✅ To-Do List App](https://github.com/GhanshyamJha05/todo-list-app) | A responsive and user-friendly task manager | HTML, CSS, JavaScript |
-| [🌐 Web Dev Projects](https://github.com/GhanshyamJha05/program-using-html-css-and-js) | Collection of mini projects using HTML/CSS/JS | HTML, CSS, JavaScript |
-| [📘 LeetCode Solutions](https://github.com/GhanshyamJha05/Leetcode-solutions) | My C++ solutions for various LeetCode problems | C++ |
-
+| :--- | :--- | :--- |
+| **[Minecraft Basic Clone](https://github.com/GhanshyamJha05/minecraft-basic-by-python)** | A Minecraft-like voxel game clone built with Python. | Python, Ursina Engine |
+| **[Car Rental Website](https://github.com/GhanshyamJha05/Car-Rental-Website)** | A complete platform for renting cars with a modern UI. | TypeScript, Next.js |
+| **[Web Scraper in Go](https://github.com/GhanshyamJha05/WEB_SCRAPPER_Using-GO)** | A high-performance web scraper to extract data efficiently. | Go (Golang) |
+| **[Ideathon Project](https://github.com/GhanshyamJha05/Ideathon)** | Innovative project developed for an ideathon competition. | JavaScript, Web Tech |
 
 ---
+
 ### 🧩 Holopin Badges
 [![An image of @ghanshyamjha05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghanshyamjha05)](https://holopin.io/@ghanshyamjha05)
+
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=GhanshyamJha05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Ghanshyam's GitHub Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanshyamJha05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=GhanshyamJha05&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ghanshyam-jha-826108260" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
@@ -82,23 +93,4 @@
 </p>
 
 ---
-
-### 🧮 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhanshyamJha05&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhanshyamJha05&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Badges & Certifications
-
-- ✔️ C++ Programming – HackerRank  
-- ✔️ Python Programming – [Great Learning / Coursera / etc.]  
-- ✔️ Web Development Bootcamp – [Udemy]
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">Made with ❤️ by Ghanshyam Jha</p>
