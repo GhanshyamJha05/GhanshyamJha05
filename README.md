@@ -8,11 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=GhanshyamJha05&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GhanshyamJha05&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
 
 <p align="center">
   I'm a Computer Science & Engineering student passionate about building real-world solutions using Full-Stack Web Development and Machine Learning. I love exploring new technologies, from building game clones to scalable web applications.
