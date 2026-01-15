@@ -71,8 +71,8 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=GhanshyamJha05&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=GhanshyamJha05&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
