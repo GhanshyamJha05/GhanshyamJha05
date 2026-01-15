@@ -4,6 +4,14 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Coder;Web+%26+App+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=GhanshyamJha05&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GhanshyamJha05&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>
 
 <p align="center">
@@ -67,6 +75,10 @@
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GhanshyamJha05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhanshyamJha05&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
