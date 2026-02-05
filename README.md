@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  I'm a Computer Science & Engineering student passionate about building real-world solutions using Full-Stack Web Development and Machine Learning. I love exploring new technologies, from building game clones to scalable web applications.
+  I'm a Computer Science & Engineering student passionate about building real-world solutions using Full-Stack Web Development and Machine Learning. I love exploring new technologies, from building game clones to scalable web application.
 </p>
 
 ---
