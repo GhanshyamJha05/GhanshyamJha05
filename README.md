@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ghanshyam Jha</h1>
-<h3 align="center">Aspiring Software Engineer | CSE Undergrad | Full-Stack & Python Developer</h3>
+<h3 align="center">Aspiring Software Engineer | CSE Undergrad | WEB Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Coder;Web+%26+App+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
