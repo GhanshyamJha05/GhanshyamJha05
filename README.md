@@ -55,10 +55,11 @@ repos   : 56 public repositories
 
 <table>
 <tr><th align="left">#</th><th align="left">project</th><th align="left">description</th><th align="left">stack</th></tr>
-<tr><td><code>01</code></td><td><a href="https://github.com/GhanshyamJha05/minecraft-basic-by-python"><b>minecraft-basic-by-python</b></a></td><td>Minecraft-like voxel game clone</td><td><img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=0058F8"/> <img src="https://img.shields.io/badge/Ursina-0A0A0A?style=flat-square&logoColor=E4000F"/></td></tr>
-<tr><td><code>02</code></td><td><a href="https://github.com/GhanshyamJha05/Car-Rental-Website"><b>Car-Rental-Website</b></a></td><td>Full car rental platform, modern UI</td><td><img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=0058F8"/> <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=E4000F"/></td></tr>
-<tr><td><code>03</code></td><td><a href="https://github.com/GhanshyamJha05/WEB_SCRAPPER_Using-GO"><b>WEB_SCRAPPER_Using-GO</b></a></td><td>High-performance web scraper</td><td><img src="https://img.shields.io/badge/Go-0A0A0A?style=flat-square&logo=go&logoColor=0058F8"/></td></tr>
-<tr><td><code>04</code></td><td><a href="https://github.com/GhanshyamJha05/Resume_Analyzer"><b>Resume_Analyzer</b></a></td><td>Resume scoring & analysis tool</td><td><img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=E4000F"/></td></tr>
+<tr><td><code>01</code></td><td><a href="https://github.com/GhanshyamJha05/Nexus_AI-Capstone-"><b>Nexus AI</b></a></td><td>Multi-agent decision intelligence platform — specialized AI agents evaluate a scenario from different angles and merge findings into a consensus, causal graph & report</td><td><img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=0058F8"/> <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=E4000F"/> <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=0058F8"/></td></tr>
+<tr><td><code>02</code></td><td><a href="https://github.com/GhanshyamJha05/Resume_Analyzer"><b>Resume_Analyzer</b></a></td><td>AI resume analyzer & ATS evaluator — scores and reviews resumes using GPT-4</td><td><img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=0058F8"/> <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=E4000F"/> <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=0058F8"/></td></tr>
+<tr><td><code>03</code></td><td><a href="https://github.com/GhanshyamJha05/Sport-cli"><b>Sport-cli</b></a></td><td>Terminal dashboard for the 2026 FIFA World Cup — squads, fixtures, live standings & bracket</td><td><img src="https://img.shields.io/badge/Go-0A0A0A?style=flat-square&logo=go&logoColor=0058F8"/> <img src="https://img.shields.io/badge/Bubble_Tea-0A0A0A?style=flat-square&logoColor=E4000F"/></td></tr>
+<tr><td><code>04</code></td><td><a href="https://github.com/GhanshyamJha05/devtool-cli"><b>devtool-cli</b></a></td><td>Go CLI for everyday dev chores — API fetching, JSON formatting, folder cleanup</td><td><img src="https://img.shields.io/badge/Go-0A0A0A?style=flat-square&logo=go&logoColor=0058F8"/></td></tr>
+<tr><td><code>05</code></td><td><a href="https://github.com/GhanshyamJha05/CodeTester"><b>CodeTester</b></a></td><td>AI-driven QA platform — turns natural-language test intent into autonomous browser testing</td><td><img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=0058F8"/></td></tr>
 </table>
 
 <br/>
@@ -141,8 +142,8 @@ Push it, run it once manually from the **Actions** tab (`workflow_dispatch`), an
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0058F8)](https://www.linkedin.com/in/ghanshyam-jha-b967732a2/)
-[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E4000F)](https://x.com/GhanshyamJ60168)
-[![Gmail](https://img.shields.io/badge/GMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0058F8)](mailto:gjha6048@gmail.com)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E4000F)](https://x.com/gjha6048)
+[![Gmail](https://img.shields.io/badge/GMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0058F8)](mailto:ghanshyamjha05@gmail.com)
 
 <br/>
 
