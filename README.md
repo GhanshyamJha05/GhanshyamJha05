@@ -141,7 +141,7 @@ Push it, run it once manually from the **Actions** tab (`workflow_dispatch`), an
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0058F8)](https://www.linkedin.com/in/ghanshyam-jha-b967732a2/)
-[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E4000F)](https://x.com/gjha6048)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E4000F)](https://x.com/GhanshyamJ60168)
 [![Gmail](https://img.shields.io/badge/GMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0058F8)](mailto:gjha6048@gmail.com)
 
 <br/>
