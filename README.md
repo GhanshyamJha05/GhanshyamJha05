@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/divider-strip.png" width="100%" alt=""/>
 
-> ⟟ *"Code is like humor. When you have to explain it, it's bad."*
+>  *"Code is like humor. When you have to explain it, it's bad."*
 
 <br/>
 
