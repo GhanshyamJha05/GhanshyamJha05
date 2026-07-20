@@ -80,42 +80,7 @@ repos   : 56 public repositories
 <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 </div>
 
-<details>
-<summary><samp>⚠ if this doesn't render, click for setup</samp></summary>
-<br/>
 
-This image only exists if a GitHub Action generates it. Add this workflow to your `GhanshyamJha05/GhanshyamJha05` repo at `.github/workflows/snake.yml`:
-
-```yaml
-name: generate-snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: GhanshyamJha05
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Push it, run it once manually from the **Actions** tab (`workflow_dispatch`), and it'll create the `output` branch with the SVG this image is pointing to.
-
-</details>
 
 <br/>
 
