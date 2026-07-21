@@ -82,7 +82,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 
 ---
 
-## 🐍 Contribution Snake (Thunder Edition)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-snake-dark.svg" alt="Snake Animation"/>
