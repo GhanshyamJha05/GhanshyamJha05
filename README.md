@@ -75,9 +75,6 @@ I'm a Computer Science & Engineering student passionate about building real-worl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhanshyamJha05&theme=react-dark&bg_color=0D1117&color=FFD400&line=FFA500&point=FFFFFF&hide_border=true" alt="Activity graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-vijaypurr.vercel.app/?user=GhanshyamJha05&theme=dark&hide_border=true&background=0D1117&ring=FFD400&fire=FFA500&currStreakLabel=FFD400"/>
-</p>
 
 ---
 
