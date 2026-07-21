@@ -1,10 +1,10 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer+%E2%9A%A1;CSE+Undergrad+%7C+Web+Developer;Full-Stack+%2B+Machine+Learning;Thunder+Breathing%2C+First+Form+%F0%9F%97%A1" alt="Typing SVG" />
-</div>
- <div align="center"> 
-<img src="./assets/swordsman-banner.png" width="40%" alt="Swordsman thunder banner"/>
-</div>
-
+ 
+<p align="center">
+  <img src="./assets/swordsman-banner.png" alt="Ghanshyam Jha Banner" width="100%">
+</p>
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Focused%20Like%20Zenitsu%20Asleep-FFD400?style=for-the-badge&logo=lightning&logoColor=black" alt="status badge"/>
 </p>
