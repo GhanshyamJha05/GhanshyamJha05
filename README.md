@@ -85,14 +85,8 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 ## 🐍 Contribution Snake (Thunder Edition)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
-> To recolor the snake in Zenitsu's yellow/black, edit `.github/workflows/snake.yml` and set:
-> ```yaml
-> snake_color: FFD400
-> dot_color: 1a1400
-> ```
 
 ---
 
