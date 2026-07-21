@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="./assets/swordsman-banner.png" width="100%" alt="Swordsman thunder banner"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer+%E2%9A%A1;CSE+Undergrad+%7C+Web+Developer;Full-Stack+%2B+Machine+Learning;Thunder+Breathing%2C+First+Form+%F0%9F%97%A1" alt="Typing SVG" />
+  
+<img src="./assets/swordsman-banner.png" width="100%" alt="Swordsman thunder banner"/>
 
 </div>
 
