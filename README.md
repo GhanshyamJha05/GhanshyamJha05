@@ -95,6 +95,6 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 </p>
 
 <div align="center">
-  <img src="./assets/thunder-banner.svg" width="100%" alt="Thunder banner footer"/>
+  <img src="./assets/footer.png" width="100%" alt="Thunder banner footer"/>
   <sub>Made with ⚡ by Ghanshyam Jha</sub>
 </div>
