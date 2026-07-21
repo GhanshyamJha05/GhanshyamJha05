@@ -1,119 +1,110 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/header-pixel-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/header-pixel-light.png">
-  <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/header-pixel-dark.png" width="100%" alt="Ghanshyam Jha">
-</picture>
+<img src="./assets/swordsman-banner.svg" width="100%" alt="Swordsman thunder banner"/>
 
-### <sub>Computer Science & Engineering Student · Full-Stack Dev · ML Enthusiast</sub>
-
-<br/>
-
-[![Followers](https://img.shields.io/github/followers/GhanshyamJha05?label=FOLLOWERS&style=for-the-badge&color=E4000F&labelColor=0A0A0A&logo=github&logoColor=0058F8)](https://github.com/GhanshyamJha05?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGhanshyamJha05&label=REPOS&query=%24.public_repos&style=for-the-badge&color=0058F8&labelColor=0A0A0A&logo=git&logoColor=E4000F)](https://github.com/GhanshyamJha05?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=GhanshyamJha05&style=for-the-badge&color=E4000F&labelColor=0A0A0A&label=VIEWS)](https://github.com/GhanshyamJha05)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer+%E2%9A%A1;CSE+Undergrad+%7C+Web+Developer;Full-Stack+%2B+Machine+Learning;Thunder+Breathing%2C+First+Form+%F0%9F%97%A1" alt="Typing SVG" />
 
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Focused%20Like%20Zenitsu%20Asleep-FFD400?style=for-the-badge&logo=lightning&logoColor=black" alt="status badge"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/divider-strip.png" width="100%" alt=""/>
-
->  *"Code is like humor. When you have to explain it, it's bad."*
-
-<br/>
-
-<img width="26" src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/icon-about.png"/> <samp><b>01 — about.txt</b></samp>
 ---
 
-```yaml
-name    : Ghanshyam Jha
-role    : Computer Science & Engineering Student
-stack   : Full-Stack Web Development · Machine Learning
-status  : Shipping side projects, one repo at a time
-repos   : 56 public repositories
-```
+### ⚡ About Me
 
-<br/>
+I'm a Computer Science & Engineering student passionate about building real-world solutions using Full-Stack Web Development and Machine Learning. I love exploring new technologies, from building game clones to scalable web applications — quiet most of the time, but locked in and lightning-fast when it counts.
 
-<img width="26" src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/icon-skills.png"/> <samp><b>02 — skills --tree</b></samp>
 ---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD400?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD400"/>
+  <img src="https://img.shields.io/badge/Go-FFD400?style=for-the-badge&logo=go&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
+</p>
+
+### Frontend & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFD400"/>
+  <img src="https://img.shields.io/badge/React-FFA500?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FFD400?style=for-the-badge&logo=tailwind-css&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-FFA500?style=for-the-badge&logo=node.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFD400"/>
+</p>
+
+### Tools & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-FFD400?style=for-the-badge&logo=mongodb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-FFA500?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD400"/>
+  <img src="https://img.shields.io/badge/Docker-FFA500?style=for-the-badge&logo=docker&logoColor=black"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Minecraft Basic Clone](https://github.com/GhanshyamJha05/minecraft-basic-by-python)** | A Minecraft-like voxel game clone built with Python. | Python, Ursina Engine |
+| **[Car Rental Website](https://github.com/GhanshyamJha05/Car-Rental-Website)** | A complete platform for renting cars with a modern UI. | TypeScript, Next.js |
+| **[Web Scraper in Go](https://github.com/GhanshyamJha05/WEB_SCRAPPER_Using-GO)** | A high-performance web scraper to extract data efficiently. | Go (Golang) |
+| **[Ideathon Project](https://github.com/GhanshyamJha05/Ideathon)** | Innovative project developed for an ideathon competition. | JavaScript, Web Tech |
+
+---
+
+### 🧩 Holopin Badges
+
+<a href="https://holopin.io/@ghanshyamjha05"><img src="https://holopin.me/ghanshyamjha05" alt="Holopin badges"/></a>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GhanshyamJha05&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD400&icon_color=FFA500&text_color=FFFFFF"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GhanshyamJha05&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD400&text_color=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhanshyamJha05&theme=react-dark&bg_color=0D1117&color=FFD400&line=FFA500&point=FFFFFF&hide_border=true" alt="Activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-vijaypurr.vercel.app/?user=GhanshyamJha05&theme=dark&hide_border=true&background=0D1117&ring=FFD400&fire=FFA500&currStreakLabel=FFD400"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Thunder Edition)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+> To recolor the snake in Zenitsu's yellow/black, edit `.github/workflows/snake.yml` and set:
+> ```yaml
+> snake_color: FFD400
+> dot_color: 1a1400
+> ```
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghanshyam-jha-826108260"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD400"/></a>
+  <a href="https://twitter.com/Ghanshy47829977"><img src="https://img.shields.io/badge/Twitter-FFA500?style=for-the-badge&logo=twitter&logoColor=black"/></a>
+  <a href="mailto:ghanshyamjha05@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD400?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,go&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,django&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode&theme=dark" />
-
-</div>
-
-<br/>
-
-<img width="26" src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/icon-projects.png"/> <samp><b>03 — projects --sort=featured</b></samp>
----
-
-<table>
-<tr><th align="left">#</th><th align="left">project</th><th align="left">description</th><th align="left">stack</th></tr>
-<tr><td><code>01</code></td><td><a href="https://github.com/GhanshyamJha05/Nexus_AI-Capstone-"><b>Nexus AI</b></a></td><td>Multi-agent decision intelligence platform — specialized AI agents evaluate a scenario from different angles and merge findings into a consensus, causal graph & report</td><td><img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=0058F8"/> <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=E4000F"/> <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=0058F8"/></td></tr>
-<tr><td><code>02</code></td><td><a href="https://github.com/GhanshyamJha05/Resume_Analyzer"><b>Resume_Analyzer</b></a></td><td>AI resume analyzer & ATS evaluator — scores and reviews resumes using GPT-4</td><td><img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=0058F8"/> <img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=E4000F"/> <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=0058F8"/></td></tr>
-<tr><td><code>03</code></td><td><a href="https://github.com/GhanshyamJha05/Sport-cli"><b>Sport-cli</b></a></td><td>Terminal dashboard for the 2026 FIFA World Cup — squads, fixtures, live standings & bracket</td><td><img src="https://img.shields.io/badge/Go-0A0A0A?style=flat-square&logo=go&logoColor=0058F8"/> <img src="https://img.shields.io/badge/Bubble_Tea-0A0A0A?style=flat-square&logoColor=E4000F"/></td></tr>
-<tr><td><code>04</code></td><td><a href="https://github.com/GhanshyamJha05/devtool-cli"><b>devtool-cli</b></a></td><td>Go CLI for everyday dev chores — API fetching, JSON formatting, folder cleanup</td><td><img src="https://img.shields.io/badge/Go-0A0A0A?style=flat-square&logo=go&logoColor=0058F8"/></td></tr>
-<tr><td><code>05</code></td><td><a href="https://github.com/GhanshyamJha05/CodeTester"><b>CodeTester</b></a></td><td>AI-driven QA platform — turns natural-language test intent into autonomous browser testing</td><td><img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=0058F8"/></td></tr>
-</table>
-
-<br/>
-
-<img width="26" src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/icon-graph.png"/> <samp><b>04 — contribution-graph --live</b></samp>
----
-
-<div align="center">
-<img src="https://ghchart.rshah.org/E4000F/GhanshyamJha05" width="100%" alt="Ghanshyam's GitHub contribution graph"/>
-</div>
-
-<br/>
-
-<img width="30" src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/icon-snake.png"/> <samp><b>05 — contribution-snake.gif</b></samp>
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
-</div>
-
-
-
-<br/>
-
-<img width="26" src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/icon-badges.png"/> <samp><b>06 — badges.log</b></samp>
----
-
-<div align="center">
-
-[![Holopin badges](https://holopin.me/ghanshyamjha05)](https://holopin.io/@ghanshyamjha05)
-
-</div>
-
-```
-[✔] YOLO
-[✔] Pull Shark   x2
-[✔] Quickdraw
-```
-
-<br/>
-
-<img width="26" src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/icon-contact.png"/> <samp><b>07 — contact.txt</b></samp>
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0058F8)](https://www.linkedin.com/in/ghanshyam-jha-b967732a2/)
-[![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=E4000F)](https://x.com/gjha6048)
-[![Gmail](https://img.shields.io/badge/GMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0058F8)](mailto:ghanshyamjha05@gmail.com)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/main/assets/divider-strip.png" width="100%" alt=""/>
-
-<samp>$ exit — process finished with exit code 0</samp>
-
+  <img src="./assets/thunder-banner.svg" width="100%" alt="Thunder banner footer"/>
+  <sub>Made with ⚡ by Ghanshyam Jha</sub>
 </div>
