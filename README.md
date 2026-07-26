@@ -9,13 +9,17 @@
   <img src="https://img.shields.io/badge/Status-Focused%20Like%20Zenitsu%20Asleep-FFD400?style=for-the-badge&logo=lightning&logoColor=black" alt="status badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ### ⚡ About Me
 
 I'm a Computer Science & Engineering student passionate about building real-world solutions using Full-Stack Web Development and Machine Learning. I love exploring new technologies, from building game clones to scalable web applications — quiet most of the time, but locked in and lightning-fast when it counts.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +49,9 @@ I'm a Computer Science & Engineering student passionate about building real-worl
   <img src="https://img.shields.io/badge/Docker-FFA500?style=for-the-badge&logo=docker&logoColor=black"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ## 🌟 Featured Projects
 
@@ -55,7 +61,10 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 | **[Devtool CLI](https://github.com/GhanshyamJha05/Devtool-cli)** | A powerful all-in-one developer CLI packed with productivity tools for web developers, automation, and everyday development workflows. | Go (Golang), Cobra CLI |
 | **[Web Scraper in Go](https://github.com/GhanshyamJha05/WEB_SCRAPPER_Using-GO)** | A high-performance web scraper built in Go for fast and efficient data extraction with concurrent processing. | Go (Golang) |
 | **[Sentinel](https://github.com/GhanshyamJha05/Sentinel)** | An open-source security scanner that detects exposed secrets, vulnerable dependencies, and insecure configurations before deployment. | Go, Security, CLI |
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ## 🌍 Open Source Contributions
 
@@ -68,13 +77,17 @@ Actively contributing to open-source projects across developer tools, AI, and we
 | **[Symptom Scribe](https://github.com/mohdmaazgani/symptom-scribe-clean)** | Contributed UI improvements, discussions, and feature suggestions. | Next.js, TypeScript |
 | **Various Open Source Projects** | Contributed bug fixes, documentation improvements, code reviews, and feature implementations across GitHub. | Go, Python, JavaScript |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ### 🧩 Holopin Badges
 
 <a href="https://holopin.io/@ghanshyamjha05"><img src="https://holopin.me/ghanshyamjha05" alt="Holopin badges"/></a>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -88,7 +101,9 @@ Actively contributing to open-source projects across developer tools, AI, and we
 </p>
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ## 🐍 Contribution Snake 
 
@@ -96,7 +111,9 @@ Actively contributing to open-source projects across developer tools, AI, and we
   <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+</p>
 
 ### 🌐 Connect With Me
 
@@ -109,3 +126,4 @@ Actively contributing to open-source projects across developer tools, AI, and we
 <div align="center">
   <sub>Made with ⚡ by Ghanshyam Jha</sub>
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FFD400&section=header"/>
