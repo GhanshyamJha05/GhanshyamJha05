@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/Status-Focused%20Like%20Zenitsu%20Asleep-FFD400?style=for-the-badge&logo=lightning&logoColor=black" alt="status badge"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
-</p>
 
 ### ⚡ About Me
 
@@ -49,9 +46,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
   <img src="https://img.shields.io/badge/Docker-FFA500?style=for-the-badge&logo=docker&logoColor=black"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
-</p>
+---
 
 ## 🌟 Featured Projects
 
@@ -62,9 +57,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 | **[Web Scraper in Go](https://github.com/GhanshyamJha05/WEB_SCRAPPER_Using-GO)** | A high-performance web scraper built in Go for fast and efficient data extraction with concurrent processing. | Go (Golang) |
 | **[Sentinel](https://github.com/GhanshyamJha05/Sentinel)** | An open-source security scanner that detects exposed secrets, vulnerable dependencies, and insecure configurations before deployment. | Go, Security, CLI |
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
-</p>
+---
 
 ## 🌍 Open Source Contributions
 
@@ -111,9 +104,7 @@ Actively contributing to open-source projects across developer tools, AI, and we
   <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
-</p>
+
 
 ### 🌐 Connect With Me
 
