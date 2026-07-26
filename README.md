@@ -51,10 +51,22 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[Minecraft Basic Clone](https://github.com/GhanshyamJha05/minecraft-basic-by-python)** | A Minecraft-like voxel game clone built with Python. | Python, Ursina Engine |
-| **[Car Rental Website](https://github.com/GhanshyamJha05/Car-Rental-Website)** | A complete platform for renting cars with a modern UI. | TypeScript, Next.js |
-| **[Web Scraper in Go](https://github.com/GhanshyamJha05/WEB_SCRAPPER_Using-GO)** | A high-performance web scraper to extract data efficiently. | Go (Golang) |
-| **[Ideathon Project](https://github.com/GhanshyamJha05/Ideathon)** | Innovative project developed for an ideathon competition. | JavaScript, Web Tech |
+| **[Resume Analyzer](https://github.com/GhanshyamJha05/Resume_Analyzer)** | An AI-powered resume analyzer that extracts skills, evaluates resumes, and provides actionable insights for job seekers. | Python, Machine Learning, NLP |
+| **[Devtool CLI](https://github.com/GhanshyamJha05/Devtool-cli)** | A powerful all-in-one developer CLI packed with productivity tools for web developers, automation, and everyday development workflows. | Go (Golang), Cobra CLI |
+| **[Web Scraper in Go](https://github.com/GhanshyamJha05/WEB_SCRAPPER_Using-GO)** | A high-performance web scraper built in Go for fast and efficient data extraction with concurrent processing. | Go (Golang) |
+| **[Sentinel](https://github.com/GhanshyamJha05/Sentinel)** | An open-source security scanner that detects exposed secrets, vulnerable dependencies, and insecure configurations before deployment. | Go, Security, CLI |
+---
+
+## 🌍 Open Source Contributions
+
+Actively contributing to open-source projects across developer tools, AI, and web technologies through bug fixes, feature development, documentation, and UI improvements.
+
+| Project | Contribution | Tech Stack |
+|---|---|---|
+| **[MergeShip](https://github.com/GhanshyamJha05/MergeShip)** | Built interactive issue explorer, improved UI/UX, fixed bugs, and enhanced developer workflows. | Next.js, TypeScript, Tailwind CSS |
+| **[Semantic Plagiarism Detector](https://github.com/Ganesh-403/semantic-plagiarism-detector)** | Implemented new features, resolved merge conflicts, and contributed bug fixes. | Python, FastAPI |
+| **[Symptom Scribe](https://github.com/mohdmaazgani/symptom-scribe-clean)** | Contributed UI improvements, discussions, and feature suggestions. | Next.js, TypeScript |
+| **Various Open Source Projects** | Contributed bug fixes, documentation improvements, code reviews, and feature implementations across GitHub. | Go, Python, JavaScript |
 
 ---
 
