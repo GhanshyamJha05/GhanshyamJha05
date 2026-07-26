@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
 </p>
 
 ### ⚡ About Me
@@ -18,7 +18,7 @@
 I'm a Computer Science & Engineering student passionate about building real-world solutions using Full-Stack Web Development and Machine Learning. I love exploring new technologies, from building game clones to scalable web applications — quiet most of the time, but locked in and lightning-fast when it counts.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
 </p>
 
 ## 🛠️ Tech Stack
@@ -50,7 +50,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
 </p>
 
 ## 🌟 Featured Projects
@@ -63,7 +63,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 | **[Sentinel](https://github.com/GhanshyamJha05/Sentinel)** | An open-source security scanner that detects exposed secrets, vulnerable dependencies, and insecure configurations before deployment. | Go, Security, CLI |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
 </p>
 
 ## 🌍 Open Source Contributions
@@ -78,7 +78,7 @@ Actively contributing to open-source projects across developer tools, AI, and we
 | **Various Open Source Projects** | Contributed bug fixes, documentation improvements, code reviews, and feature implementations across GitHub. | Go, Python, JavaScript |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
 </p>
 
 ### 🧩 Holopin Badges
@@ -86,7 +86,7 @@ Actively contributing to open-source projects across developer tools, AI, and we
 <a href="https://holopin.io/@ghanshyamjha05"><img src="https://holopin.me/ghanshyamjha05" alt="Holopin badges"/></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -102,7 +102,7 @@ Actively contributing to open-source projects across developer tools, AI, and we
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
 </p>
 
 ## 🐍 Contribution Snake 
@@ -112,7 +112,7 @@ Actively contributing to open-source projects across developer tools, AI, and we
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000000&color=FFD400&center=true&width=900&lines=────────────────────────────────────────────────────────"/>
 </p>
 
 ### 🌐 Connect With Me
