@@ -57,7 +57,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 | **[Web Scraper in Go](https://github.com/GhanshyamJha05/WEB_SCRAPPER_Using-GO)** | A high-performance web scraper built in Go for fast and efficient data extraction with concurrent processing. | Go (Golang) |
 | **[Sentinel](https://github.com/GhanshyamJha05/Sentinel)** | An open-source security scanner that detects exposed secrets, vulnerable dependencies, and insecure configurations before deployment. | Go, Security, CLI |
 
----
+
 
 ## 🌍 Open Source Contributions
 
