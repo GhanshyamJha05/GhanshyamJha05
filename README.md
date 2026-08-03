@@ -104,7 +104,7 @@ Actively contributing to open-source projects across developer tools, AI, and we
   <img src="https://raw.githubusercontent.com/GhanshyamJha05/GhanshyamJha05/output/github-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
-
+---
 
 ### 🌐 Connect With Me
 
