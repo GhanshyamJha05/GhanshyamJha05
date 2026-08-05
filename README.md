@@ -28,7 +28,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
   <img src="https://img.shields.io/badge/Go-FFD400?style=for-the-badge&logo=go&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
 </p>
----
+
 ### Frontend & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFD400"/>
@@ -37,7 +37,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
   <img src="https://img.shields.io/badge/Node.js-FFA500?style=for-the-badge&logo=node.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFD400"/>
 </p>
----
+
 ### Tools & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-FFD400?style=for-the-badge&logo=mongodb&logoColor=black"/>
