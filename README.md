@@ -10,7 +10,7 @@
 </p>
 
 
-### ⚡ About Me
+ ⚡ About Me
 
 I'm a Computer Science & Engineering student passionate about building real-world solutions using Full-Stack Web Development and Machine Learning. I love exploring new technologies, from building game clones to scalable web applications — quiet most of the time, but locked in and lightning-fast when it counts.
 
