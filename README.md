@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Status-Focused%20Like%20Zenitsu%20Asleep-FFD400?style=for-the-badge&logo=lightning&logoColor=black" alt="status badge"/>
 </p>
 ---
----
 
 ### ⚡ About Me
 
